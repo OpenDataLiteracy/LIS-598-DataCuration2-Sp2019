@@ -45,7 +45,9 @@ Create user stories that help you understand the potential wants, needs, and des
 
 Here is an example that can help clarify the way that user stories are assembled for the protocol: https://rochellelundy.gitbooks.io/r3-recycling-repository/content/r3Recycling/protocolReport/userCommunity.html
 
-**Best Practice Use Cases**
+
+
+**Best Practice Use Cases**       
 Another way to begin gathering information about users and their expectations for data are through use cases. As you read in week 5 for class the W3C has developed a template for conducting use cases for data on the web best practices. This exercise asks you to use that template to investigate best practices for data and repositories that are relevant to your quarter protocols.
 
 The simple steps to follow:
