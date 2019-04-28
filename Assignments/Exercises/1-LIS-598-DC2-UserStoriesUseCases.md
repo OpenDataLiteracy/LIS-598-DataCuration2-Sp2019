@@ -3,10 +3,11 @@ Title: DC 2 Exercise - User Stories and Use Cases
 Date: 03.25.2019
 ---
 
+## Introduction
 In the third and fifth week of class we read about examples of doing data curation work that are "user centered." Two broad techniques for engineering requirements of these users are through use cases, and user stories. The following exercises may be helpful in the work you plan to do this quarter in building a protocol to satisfy a community of data users. (note: both of these exercises are also listed on our canvas pages).  
 
 
-**User Stories**      
+### User Stories     
 User stories are a simple, but powerful way to capture requirements when doing systems analysis and development.
 
 The level of detail, and the specific narrative style will vary greatly on the intended audience. For example, if we want to create a user story for accessing data stored in our repository we will need to think closely about different types of users, their skills, the ways they could access data, the different data they may want, etc.
@@ -47,7 +48,7 @@ Here is an example that can help clarify the way that user stories are assembled
 
 
 
-**Best Practice Use Cases**       
+### Use Cases (Best Practices)    
 Another way to begin gathering information about users and their expectations for data are through use cases. As you read in week 5 for class the W3C has developed a template for conducting use cases for data on the web best practices. This exercise asks you to use that template to investigate best practices for data and repositories that are relevant to your quarter protocols.
 
 The simple steps to follow:
