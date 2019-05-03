@@ -14,7 +14,7 @@ In an ideal scenario there is a clear transfer of ownership when data, documenta
 - What additional metadata (beyond what the depositor provides) should be created at the point of data being transfered to your stewardship?
 - Is there any additional documentation that should be created in order to meaningfully preserve or use this data?
 
-**Transformation**
+**Transformation**      
 Taking ownership (or stewardship) of a data collection may be just the first step in an extended workflow of preparing the data for being ingested by a repository, stored for long term preservation, or prepared for discovery and meaningful reuse in a data catalog.
 
 Of course, transforming data to meet the needs of our users is one of the primary (and most time consuming) activities in data curation. The time we spend doing this is a direct funciton of the perceived value we have for the data we are curating. That means that we should try to establish policies that are appropriate for the sensitivity, uniqueness, and value of the data we are transforming. Consider the following questions as you begin to write out a policy about how data should be transformed for your protocol. Think about writing this section in the spirit of our previous reading on ['How to share data with a statistician'](https://github.com/jtleek/datasharing).
