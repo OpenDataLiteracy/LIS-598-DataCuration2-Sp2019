@@ -1,4 +1,4 @@
-##Metadata Applicaiton Profiles
+## Metadata Applicaiton Profiles
 
 Overall goal: Looking at the relevant examples from our [metadata folder](https://github.com/OpenDataLiteracy/LIS-598-DataCuration2-Sp2019/tree/master/Metadata-Examples), and the use cases you developed last week, begin to develop an application profile for your project.
 
